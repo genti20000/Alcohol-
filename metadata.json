@@ -1,0 +1,6 @@
+{
+  "name": "Nightmark Alcohol Licensing Academy",
+  "description": "Comprehensive Alcohol Personal Licence Law compliance training platform with interactive modules, 40-question accredited practice exam, automated certification, and administrative oversight analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
